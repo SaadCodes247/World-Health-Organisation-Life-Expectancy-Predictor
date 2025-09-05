@@ -21,4 +21,4 @@ The task is to produce a function that takes in relevant population statistics (
 
 2. Model2, which predicts life expectancy by excluding features that are more geographically sensitive for countries that may wish not to use model1, as explained in the task above.
 
-3. A report titled Sensitive Model Considerations that details your reasons for why some features may be more sensitive and better to exclude in Model2.
+3. A report titled Non-Sensitive Model Considerations that details your reasons for why some features may be more sensitive and better to exclude in Model2.
